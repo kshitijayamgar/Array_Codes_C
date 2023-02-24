@@ -1,4 +1,5 @@
 /* operation on char array */
+
 #include<stdio.h>
 void main(){
           char carr1[]={'A','B','C',};
