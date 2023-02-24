@@ -1,4 +1,4 @@
-/* WAP to print sum of both diagonal  elements in  2D array take all i/p from user*/
+/* WAP to print sum of both diagonal(ie principal and secondary diagonals)elements in  2D array take all i/p from user*/
 
 
 #include<stdio.h>
