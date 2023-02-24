@@ -1,4 +1,5 @@
 /* To print sum of diagonal elements*/
+
 #include<stdio.h>
 void main(){
         int rows;
