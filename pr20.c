@@ -1,4 +1,5 @@
 /*operation on array*/
+
 #include<stdio.h>
 void main(){
 	int arr1[]={10,20,30,};
