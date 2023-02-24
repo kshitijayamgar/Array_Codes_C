@@ -1,4 +1,5 @@
 /*prg for find max element from array*/
+
 #include<stdio.h>
 void main(){
         int size;
