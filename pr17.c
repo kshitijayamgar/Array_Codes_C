@@ -1,4 +1,5 @@
 /*To check 2 Arrays are equal or not?*/
+
 #include<stdio.h>
 void main(){
         int arr1[3]={10,20,30};
