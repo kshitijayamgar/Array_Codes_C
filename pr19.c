@@ -1,4 +1,5 @@
 /*typecasting of void ptr*/
+
 #include<stdio.h>
 void main(){
         int x=10;
