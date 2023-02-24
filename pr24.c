@@ -6,6 +6,7 @@
           16 125  36
 	  343 64  729] */
 
+
 #include<stdio.h>
 void main(){
             
