@@ -22,5 +22,6 @@
                   printf("%d|",arr[i]);
             }
 	    printf("\n");
+  }
 
 
