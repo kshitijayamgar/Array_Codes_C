@@ -23,7 +23,7 @@ void main(){
         printf("%d\n",*ptr2);
         printf("%d\n",*ptr3);
         /*adresses*/
-        printf("ptr1mdhe:%p\n",ptr1);
-        printf("ptr2mdhe:%p\n",ptr2);
-        printf("ptr3 mdhe:%p\n",ptr3);
+        printf("ptr1 inside box :%p\n",ptr1);
+        printf("ptr2 inside box :%p\n",ptr2);
+        printf("ptr3 inside box:%p\n",ptr3);
 }
